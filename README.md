@@ -60,10 +60,10 @@ describes how to get and use xpp.
 
 ## The model files were submitted by:
 
-Dr. Sheng-Nan Wu, Han-Dong Chang, Jiun-Shian Wu
-Department of  Physiology
-National Cheng Kung University Medical College
-Tainan 70101, Taiwan
+Dr. Sheng-Nan Wu, Han-Dong Chang, Jiun-Shian Wu  
+Department of  Physiology  
+National Cheng Kung University Medical College  
+Tainan 70101, Taiwan  
 snwu@mail.ncku.edu.tw
 
 ---
